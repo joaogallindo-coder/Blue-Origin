@@ -173,7 +173,7 @@ a {
     justify-content: center;
     text-align: center;
     color: var(--color-white);
-    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(/Prova/imagens/bg_banner\ 1.png) no-repeat center center/cover;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(../imagens/bg_banner\ 1.png) no-repeat center center/cover;
     
 }
 
@@ -447,4 +447,5 @@ a {
     height: 100px;
     padding: 12px;
     margin-bottom: 15px;
+
 }
