@@ -1,3 +1,3 @@
-🌐 Visualize o projeto:
+🌐 Projeto:
 ---
-👉 [Clique aqui para acessar](https://joaogallindo-coder.github.io/Blue-Origin/)
+Esse projeto tem com intuito educativo
